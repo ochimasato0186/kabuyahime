@@ -1166,10 +1166,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u8A2D\u5B9A"
+  m_text: "\u30AC\u30C1\u30E3"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d72b2eacfa337a74ca366810179e8d70, type: 2}
-  m_sharedMaterial: {fileID: -7377167469063243886, guid: d72b2eacfa337a74ca366810179e8d70, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 6deb763256e62394285a2b23ee948ce9, type: 2}
+  m_sharedMaterial: {fileID: -6458927251678242571, guid: 6deb763256e62394285a2b23ee948ce9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8231,7 +8231,7 @@ GameObject:
   - component: {fileID: 1637788700}
   - component: {fileID: 1637788699}
   m_Layer: 5
-  m_Name: SettingButton
+  m_Name: Gacha
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8310,7 +8310,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Setting
+          m_StringArgument: Gacha
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1637788700
